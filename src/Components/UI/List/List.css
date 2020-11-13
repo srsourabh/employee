@@ -1,0 +1,13 @@
+li{
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: rgb(233, 167, 167);
+    color: aliceblue;
+    font: inherit;
+    padding: 6px 10px;
+    display: block;
+    width: 95%;
+    margin-top: 20px;
+    box-sizing: border-box;
+
+}
